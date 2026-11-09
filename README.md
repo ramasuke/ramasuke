@@ -1,4 +1,7 @@
-<img src="assets/banner.png" width="100%" alt="川島 直也 / 28卒ゲームプログラマー">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark.png">
+  <img src="assets/banner_light.png" width="100%" alt="川島 直也 / 28卒ゲームプログラマー">
+</picture>
 
 福岡でゲームプログラマーを目指している28卒の専門学校生です！<br>
 C++ / DxLib の自作3Dエンジン **NanamiEngine** で、運営型オンラインアクション **Enviro Hunter** を開発しています。
